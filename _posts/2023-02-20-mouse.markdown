@@ -1,0 +1,100 @@
+---
+layout: post
+title:  👇 What's the pebble？
+image:  /assets/images/blog/post-5.jpg
+---
+**<B>[Mouse](https://dictionary.cambridge.org/dictionary/english/mouse)</B>**
+
+click here 👆 to show more
+<br>
+<br>
+<B>Mandarin</B> 鼠标 [shǔ biāo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鼠標 [[syu2 biu1]
+<br>
+<br>
+🇬🇧 <B>/maʊs/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/maʊs/</B>
+<table><tr>
+<td><audio controls="controls">
+  <source src="/assets/audio/mouse-gb.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+<td><audio controls="controls">
+  <source src="/assets/audio/mouse-us.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+</tr></table>
+<br>
+
+> How to use the word <B>"mouse"</B>? Let's see some examples
+
+**<i>In our Digital Classroom</i> 🖱️**
+<br>
+**Morphology Tree**
+
+<i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <img src="/assets/images/tree/mouse.png" alt="mouse morphology">
+    <img src="/assets/images/tree/mouse-s.png" alt="mouses morphology">
+</body>
+</html>
+
+**click <B> mouse </B>**
+
+**📍 To access this screen, right mouse click on the desired data file.**<br>
+
+**move <B> mouse</B>**
+
+**📍 To read your records fully, just move your mouse over the date cell.**<br>
+
+**<B> mouse </B> button**
+
+**📍 Move the cursor to the desired position on the label and click on the mouse button.**<br><br>
+
+**<i>Another Sense</i> 🐭**
+<br>
+**Morphology Tree**
+
+<i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <img src="/assets/images/tree/mouse.png" alt="mouse morphology">
+    <img src="/assets/images/tree/mice.png" alt="mice morphology">
+</body>
+</html>
+<br>
+**1. as an ADJ**
+
+**e.g. mouse field , mouse laboratory**
+	
+**📍 This page provides integrated access to data on the genetics, genomics, and biology mouse laboratory.**
+
+<br>
+**2. VERB + mouse**
+	
+**catch mouse**
+	
+**📍 Maybe some would criticize the way Kadokawa is doing it but, as long as it can catch mouse, why not?**
+	
+<br>
+**3. MOUSE + VERB  (describe the mouse's action)**
+	
+**often used verb: squeak, run, scamper, gnaw**
+	
+**📍 A black cat was sitting outside a mouse hole for a few days.**
+	
+**📍 A mouse has gnawed its way through the telephone wire.**
+	
+<br>
+**4. slang**
+
+**as quiet as a mouse**
+	
+**📍 She crept upstairs, as quiet as a mouse.**

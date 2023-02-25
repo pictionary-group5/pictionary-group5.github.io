@@ -1,0 +1,56 @@
+---
+layout: post
+title:  👇 What's name of this screen?
+image:  /assets/images/blog/post-1.jpg
+
+---
+**<B>[Display](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/display)</B>**
+
+click here 👆 to show more
+<br>
+<br>
+<B>Mandarin</B> 显示器 [xiǎn shì qì] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 顯示器 [hin2 si6 hei3]
+<br>
+<br>
+🇬🇧 <B>/dɪsˈpleɪ/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🇺🇸 <B>/dɪsˈpleɪ/</B>
+<table><tr>
+<td><audio controls="controls">
+  <source src="/assets/audio/display-gb.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+<td><audio controls="controls">
+  <source src="/assets/audio/display-us.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+</tr></table>
+<br>
+**Morphology Tree**
+
+<i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <img src="/assets/images/tree/diaplay.png" alt="display morphology">
+    <img src="/assets/images/tree/diaplay-s.png" alt="displays morphology">
+</body>
+</html>
+
+
+> How to use the word <B>"display"</B>? Let's see some examples
+
+<B> ✌🏻 Example Phrases </B>
+
+**computer <B>display</B>; high resolution <B>display</B>; liquid crystal <B>display</B>; digital <B>display</B>**
+
+<br>
+
+<B> ✌🏻 Example Sentences </B>
+
+**📍 The Regulation originally required protection of employees who have to use computer <B>display</B> screen for a period of one hour a day.** <br>
+
+**📍 We recommend setting the microphone volume in the LCD <B>display</B> to 7 out of 12.**<br>
+
+**📍 As soon as the higher analog pressure drops below the lower analog pressure the digital <B>display</B> will switch to the new highest reading.** <br>

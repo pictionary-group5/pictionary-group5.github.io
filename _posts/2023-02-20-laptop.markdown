@@ -1,0 +1,59 @@
+---
+layout: post
+title:  👇 What's the "notebook" ?
+image:  /assets/images/blog/post-4.jpg
+
+---
+**<B>[Laptop](https://dictionary.cambridge.org/dictionary/english/laptop)</B>**
+
+click here 👆 to show more
+<br>
+<br>
+<B>Mandarin</B> 手提电脑 [shǒu tí diàn nǎo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 手提電腦 [sau2 tai4 din6 nou5]
+<br>
+<br>
+🇬🇧 <B>/ˈlæp.tɒp/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/ˈlæp.tɑp/</B>
+<table><tr>
+<td><audio controls="controls">
+  <source src="/assets/audio/laptop-gb.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+<td><audio controls="controls">
+  <source src="/assets/audio/laptop-us.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+</tr></table>
+<br>
+**Morphology Tree**
+
+<i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <img src="/assets/images/tree/laptop.png" alt="laptop morphology">
+    <img src="/assets/images/tree/laptop-s.png" alt="laptops morphology">
+</body>
+</html>
+
+> How to use the word <B>"host"</B>? Let's see some examples
+
+<B>✌🏻 Example Sentences </B>
+
+**📍 laptop dock**
+
+**&emsp;&emsp;There's another problem with the laptop dock.** <br>
+
+**📍 laptop batteries**
+
+**&emsp;&emsp;Capacity and lifetime of laptop batteries have improved much in the last years.**<br>
+
+**📍 laptop shade**
+
+**&emsp;&emsp;To close the laptop shade, push the top blue tab to the bottom blue tab inside, ensuring that the logo is on the outside, then fold together.**<br>
+
+**📍 buy a laptop**
+
+**&emsp;&emsp;When buying a laptop for every bag discount 10%.**<br>

@@ -1,0 +1,59 @@
+---
+layout: post
+title:  👇 What's name of the cubes?
+image:  /assets/images/blog/post-3.jpg
+
+---
+**<B>[Keyboard](https://dictionary.cambridge.org/dictionary/english/keyboard)</B>**
+
+click here 👆 to show more
+<br>
+<br>
+<B>Mandarin</B> 键盘 [jiàn pán] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鍵盤 [gin6 pun4]
+<br>
+<br>
+🇬🇧 <B>/ˈkiː.bɔːd/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
+<table><tr>
+<td><audio controls="controls">
+  <source src="/assets/audio/keyboard-gb.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+<td><audio controls="controls">
+  <source src="/assets/audio/keyboard-us.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+</tr></table>
+<br>
+**Morphology Tree**
+
+<i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <img src="/assets/images/tree/keyboard.png" alt="keyboard morphology">
+    <img src="/assets/images/tree/keyboard-s.png" alt="keyboards morphology">
+</body>
+</html>
+
+> How to use the word <B>"keyboard"</B>? Let's see some examples
+
+<B>✌🏻 Example Sentences </B>
+
+**📍 computer keyboard**
+
+**&emsp;&emsp; Some programs for preschoolers may be aimed at familiarizing the child with the computer keyboard, or at teaching musical concepts.** <br>
+
+**📍 PC-Keyboard**
+
+**&emsp;&emsp; They can be recalled by the PC-Keyboard connected to the interface box (see keyboard layout below).**<br>
+
+**📍 typewriter keyboard**
+
+**&emsp;&emsp; This combines a typewriter keyboard, a printer and a computer.**<br>
+
+**📍 keyboard operator**
+
+**&emsp;&emsp; Is Robert a keyboard operator, too?**<br>

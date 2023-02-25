@@ -1,0 +1,58 @@
+---
+layout: post
+title:  👇 What's name for this box?
+image:  /assets/images/blog/post-2.jpg
+---
+**<B>[Host](https://dictionary.cambridge.org/dictionary/english/host-computer?q=computer+host)</B>**
+
+click here 👆 to show more
+<br>
+<br>
+<B>Mandarin</B> 主机 [zhǔ jī] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 主機 [zyu2 gei1]
+<br>
+<br>
+🇬🇧 <B>/həʊst/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
+<table><tr>
+<td><audio controls="controls">
+  <source src="/assets/audio/host-gb.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+<td><audio controls="controls">
+  <source src="/assets/audio/host-us.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio></td>
+</tr></table>
+<br>
+**Morphology Tree**
+
+<i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <img src="/assets/images/tree/host.png" alt="host morphology">
+    <img src="/assets/images/tree/host-s.png" alt="hosts morphology">
+</body>
+</html>
+
+> How to use the word <B>"host"</B>? Let's see some examples
+
+<B> ✌🏻 Example Sentences </B>
+
+**📍 Host computer** 
+
+**&emsp;&emsp; Do not use this feature if the host computer sends Line Feeds to the printer.**<br>
+
+**📍 Host machine**
+
+**&emsp;&emsp; The local host machine can further communicate with host machines in other regions over the Internet or GPRS.**<br>
+
+**📍 Web-hosting**
+
+**&emsp;&emsp; The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.**<br>
+
+**📍 Host name**
+ 
+**&emsp;&emsp; It includes both the computer’s host name and domain name.**<br>

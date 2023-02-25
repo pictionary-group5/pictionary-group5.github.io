@@ -1,0 +1,72 @@
+---
+# General Site Settings
+
+title: 🤓 Pictionary
+author: Group 5
+description: this is meta description
+email: picdictgroup5@163.com
+phone: +852 5980 3331
+address: Tat Chee Avenue, Hong Kong
+copyright: Copyright &copy; 2023 Designed by [Zhengwu MA](https://zhengwuma.github.io/) & Developed by [Get jekyll themes](https://getjekyllthemes.com)
+
+menu:
+  - { name: About, link: "/about" }
+  - { name: Pictionary, link: "/blog" }
+  - { name: Contact, link: "/contact" }
+
+#-------------------------------
+# Google Analytics Section
+
+google-analytics: # UA-XXXXXX-X
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi there! <br>Welcome to the<br><br> <i>Digital Learning Classroom!</i> 
+
+#-------------------------------
+
+# About Section
+blurb: We learn everything from the tangible world, including language. Pictionary is the primary school students domain dictionary project to collect the real objects around our world. This work is developed by the 2023 spring LT5457 Compuational Lexicography Group 5.<br><br>Check our group information in " About "! <br>Quick Start via " Pictionary "!
+
+blurb-btn-link: "/about"
+blurb-btn-name: know more
+
+# About Page
+# Team Section
+team:
+  - title: "Zhengwu MA"
+    image: "assets/images/team/member-1.png"
+    designation: "Web Designing<br>zhengwuma2-c@my.cityu.edu.hk"
+
+  - title: "Lu CHEN"
+    image: "assets/images/team/member-2.png"
+    designation: "IPA Searching<br>lchen422-c@my.cityu.edu.hk"
+
+  - title: "Yanjun LAI"
+    image: "assets/images/team/member-7.png"
+    designation: "Example Collection<br>yjlai4-c@my.cityu.edu.hk "
+    
+  - title: "Yinrong YAN"
+    image: "assets/images/team/member-4.png"
+    designation: "Lexical Collection<br>yryan2-c@my.cityu.edu.hk"
+    
+  - title: "Huiyi ZHENG"
+    image: "assets/images/team/member-5.png"
+    designation: "Morphology Tree<br>huiyzheng2-c@my.cityu.edu.hk"
+    
+  - title: "Minglin LI"
+    image: "assets/images/team/member-6.png"
+    designation: "Photo<br>minglinli3-c@my.cityu.edu.hk"
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: picdictgroup5@163.com
