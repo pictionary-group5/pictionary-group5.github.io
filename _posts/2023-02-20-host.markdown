@@ -8,7 +8,7 @@ image:  /assets/images/blog/post-2.jpg
 click here 👆 to show more
 <br>
 <br>
-<B>Mandarin</B> 主机 [zhǔ jī] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 主機 [zyu2 gei1]
+<B>Mandarin</B> 主机 [zhǔjī] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 主機 [zyu2 gei1]
 <br>
 <br>
 🇬🇧 <B>/həʊst/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
