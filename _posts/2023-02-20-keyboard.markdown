@@ -12,7 +12,7 @@ click here 👆 to show more
 <B>Mandarin</B> 键盘 [jiàn pán] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鍵盤 [gin6 pun4]
 <br>
 <br>
-🇬🇧 <B>/ˈkiː.bɔːd/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
+🇬🇧 <B>/ˈkiː.bɔːd/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/ˈkiːbɔːrd/</B>
 <table><tr>
 <td><audio controls="controls">
   <source src="/assets/audio/keyboard-gb.mp3" type="audio/mpeg">
